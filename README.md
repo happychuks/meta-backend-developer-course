@@ -23,3 +23,14 @@ In this program, you’ll learn:
 - Demonstrate your proficiency in portfolio-ready projects
 - Earn an employer-recognized certificate from Meta
 - Qualify for in-demand job titles: Back-End Developer, Website Developer, Software Engineer
+
+## Course Modules
+- Module 1: Introduction to Back-End Development
+- Module 2: Programming in Python
+- Module 3: Version Control
+- Module 4: Introduction to Databases for Back-End Development
+- Module 5: Django Web Framework
+- Module 6: APIs
+- Module 7: The Full Stack
+- Module 8: Back-End Developer Capstone Project
+- Module 9: Coding Interview Preparation
