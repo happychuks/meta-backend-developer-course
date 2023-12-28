@@ -1,4 +1,4 @@
-![Meta Logo](./meta%20logo.jpeg)
+![Meta Logo](./test1/meta%20logo.jpeg)
 # Professional Certificate - 9 course series
 Ready to gain new skills and the tools developers use to create websites and web applications? This certificate, designed by the software engineering experts at  Meta—the creators of Facebook and Instagram, will prepare you for an entry-level career as a back-end developer. 
 
