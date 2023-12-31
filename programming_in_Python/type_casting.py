@@ -20,3 +20,9 @@ cake = float(input('1 cake @: $ '))
 bill_total = round(coffee + sandwich + cake, 2)
 
 print('Your total bill is $', str(bill_total))
+
+# isInstance
+a = isinstance("aa", str)
+print(a)
+#This checks if the string "aa" is an instance of the str class. 
+# The output will be True, as "aa" is indeed a string.
