@@ -4,3 +4,7 @@ Data structures are the fundamental constructs around which you build your progr
 [Python-Data_Structure](https://docs.python.org/3/tutorial/datastructures.html)
 
 [Real-Python-Data_Structure](https://realpython.com/python-data-structures/)
+
+[Exceptions and Erros in Python](https://docs.python.org/3/library/exceptions.html)
+
+[File Handling](https://pynative.com/python/file-handling/)
